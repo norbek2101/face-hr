@@ -1,0 +1,10 @@
+click==8.0.4
+cmake==3.22.2
+colorama==0.4.4
+dlib==19.23.0
+face-recognition==1.4.0
+face-recognition-models==0.3.0
+numpy==1.22.2
+opencv-contrib-python==4.5.5.62
+opencv-python==4.5.5.62
+pillow==9.0.1
